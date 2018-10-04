@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sevenImageView</string>
+    <string name="image_Button">Show</string>
+    <string name="hide_button">Hide</string>
+</resources>
